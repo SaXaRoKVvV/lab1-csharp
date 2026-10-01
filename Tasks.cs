@@ -118,34 +118,30 @@ namespace lab1
         // Задача 10. Вывод дней недели до конца недели.
         public void PrintDays(string x)
         {
+            string[] days = { "понедельник", "вторник", "среда", "четверг",
+                      "пятница", "суббота", "воскресенье" };
+
+            int startIndex = -1;
+
             switch (x)
             {
-                case "понедельник":
-                    Console.WriteLine("понедельник");
-                    goto case "вторник";
-                case "вторник":
-                    Console.WriteLine("вторник");
-                    goto case "среда";
-                case "среда":
-                    Console.WriteLine("среда");
-                    goto case "четверг";
-                case "четверг":
-                    Console.WriteLine("четверг");
-                    goto case "пятница";
-                case "пятница":
-                    Console.WriteLine("пятница");
-                    goto case "суббота";
-                case "суббота":
-                    Console.WriteLine("суббота");
-                    goto case "воскресенье";
-                case "воскресенье":
-                    Console.WriteLine("воскресенье");
-                    break;
+                case "понедельник": startIndex = 0; break;
+                case "вторник":     startIndex = 1; break;
+                case "среда":       startIndex = 2; break;
+                case "четверг":     startIndex = 3; break;
+                case "пятница":     startIndex = 4; break;
+                case "суббота":     startIndex = 5; break;
+                case "воскресенье": startIndex = 6; break;
                 default:
                     Console.WriteLine("это не день недели");
-                    break;
-            }
-        }
+                return;
+          }
+
+    for (int i = startIndex; i < days.Length; i++)
+    {
+        Console.WriteLine(days[i]);
+    }
+}
 
         // =========================================================
         // ЗАДАНИЕ 3. ЦИКЛЫ
