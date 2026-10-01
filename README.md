@@ -20,7 +20,8 @@
 
 ### Тестирование
 
-![скриншот]()
+<img width="516" height="199" alt="Task1_2" src="https://github.com/user-attachments/assets/d85fecc0-a808-44a0-8654-4db1b2b25f93" />
+
 
 ---
 
@@ -36,7 +37,8 @@
 
 ### Тестирование
 
-![скриншот]()
+<img width="428" height="150" alt="Task1_4" src="https://github.com/user-attachments/assets/bb4faf15-50cb-40ba-9260-c82b600c10e6" />
+
 
 ---
 
@@ -52,7 +54,8 @@
 
 ### Тестирование
 
-![скриншот]()
+<img width="372" height="92" alt="Task1_6" src="https://github.com/user-attachments/assets/644a08dd-be5b-449a-a428-26b98f22b8f5" />
+
 
 ---
 
@@ -69,7 +72,8 @@
 
 ### Тестирование
 
-![скриншот]()
+<img width="447" height="223" alt="Task1_8" src="https://github.com/user-attachments/assets/087c6aa7-00a9-474e-add2-0c89ea1920ae" />
+
 
 ---
 
@@ -87,7 +91,8 @@
 
 ### Тестирование
 
-![скриншот]()
+<img width="481" height="305" alt="Task1_10" src="https://github.com/user-attachments/assets/b0ee6867-a7ad-447a-9c1f-1e6330f280d3" />
+
 
 ---
 
